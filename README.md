@@ -35,7 +35,7 @@ The `sap-app` submodule is a Flutter application designed to facilitate the proc
 - graphql_flutter
 - http
 
-For detailed information about the `sap-app` submodule, please refer to the [sap-app/README.md](sap-app/README.md) file.
+For detailed information about the `sap-app` submodule, please refer to the [sap-app/README.md](https://github.com/Mohammed-Shousha/sap-app/blob/main/README.md) file.
 
 ## 2. sap-backend
 
@@ -59,7 +59,7 @@ The `sap-backend` submodule is an Apollo GraphQL server that serves as the backe
 - Express
 - Stripe
 
-For detailed information about the `sap-backend` submodule, please refer to the [sap-backend/README.md](sap-backend/README.md) file.
+For detailed information about the `sap-backend` submodule, please refer to the [sap-backend/README.md](https://github.com/Mohammed-Shousha/sap-backend/blob/main/README.md) file.
 
 ## 3. sap-pi-app
 
@@ -79,7 +79,7 @@ The `sap-pi-app` submodule is a tablet application developed using Flutter. It a
 - provider
 - http
 
-For detailed information about the `sap-pi-app` submodule, please refer to the [sap-pi-app/README.md](sap-pi-app/README.md) file.
+For detailed information about the `sap-pi-app` submodule, please refer to the [sap-pi-app/README.md](https://github.com/Mohammed-Shousha/sap-pi-app/blob/main/README.md) file.
 
 ## 4. sap-pi-backend
 
@@ -106,4 +106,4 @@ The `sap-pi-backend` submodule is a FastAPI server for controlling the Smart Aut
 - Motor
 - gpiozero
 
-For detailed information about the `sap-pi-backend` submodule, please refer to the [sap-pi-backend/README.md](sap-pi-backend/README.md) file.
+For detailed information about the `sap-pi-backend` submodule, please refer to the [sap-pi-backend/README.md](https://github.com/Mohammed-Shousha/sap-pi-backend/blob/main/README.md) file.
