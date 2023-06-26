@@ -1,0 +1,12 @@
+[submodule "sap-app"]
+	path = sap-app
+	url = https://github.com/Mohammed-Shousha/sap-app
+[submodule "sap-pi-app"]
+	path = sap-pi-app
+	url = https://github.com/Mohammed-Shousha/sap-pi-app
+[submodule "sap-pi-backend"]
+	path = sap-pi-backend
+	url = https://github.com/Mohammed-Shousha/sap-pi-backend
+[submodule "sap-backend"]
+	path = sap-backend
+	url = https://github.com/Mohammed-Shousha/sap-backend
